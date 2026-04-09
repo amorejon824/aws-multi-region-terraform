@@ -121,34 +121,3 @@ I wanted to move beyond basic deployments and build something closer to a real p
 \- Private subnets + NAT Gateway
 
 \- Centralized logging
-
-
-
-Screenshots
-
-Terraform Structure
-
-
-
-Application Load Balancer
-
-
-
-Auto Scaling Group
-
-
-
-Target Group Health
-
-
-
-East Region Test
-
-
-
-West Region Test
-
-
-
-CloudWatch Monitoring
-
